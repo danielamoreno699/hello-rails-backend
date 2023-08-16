@@ -23,7 +23,9 @@
 
 # 📚🎵🎮 Hello react from Api <a name="about-project"></a>
 
-**Blog App** in this repo, im calling the rails api from react with webpack .
+**Hello react from api** in this repo, im calling the rails api from react with webpack .
+
+link to hello-rails-front-end: https://github.com/danielamoreno699/hello-rails-frontend
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -89,6 +91,7 @@ To run the project, navigate to the project directory and execute the following 
 ```sh
   bundle install
   rails db:create db:migrate rails server
+  rails operating in port 3000
 ```
 
 ### Run tests
