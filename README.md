@@ -68,7 +68,7 @@ In order to run this project you need:
 Clone or download the Collectify repository to your local machine.
 ```sh
   cd my-folder
-  git clone https://github.com/danielamoreno699/blog-app-rails
+  git clone  https://github.com/danielamoreno699/hello-rails-backend
 ```
 Open your terminal and navigate to the cloned project directory.
 
